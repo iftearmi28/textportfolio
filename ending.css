@@ -192,13 +192,14 @@ body{
 .contact{
   width: 85%;
   margin: auto;
+   overflow: hidden; 
 }
 .contact-container{
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
   max-width: 1130px;
-  overflow: hidden;
+  
 }
 .contact-box{
   width: 48%;
